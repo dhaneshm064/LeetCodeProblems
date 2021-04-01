@@ -6,3 +6,4 @@
 217. Contains Duplicate.
 344. Reverse String.
 283. Move Zeroes.
+1. Two Sum.
