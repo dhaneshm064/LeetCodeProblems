@@ -7,3 +7,4 @@
 344. Reverse String.
 283. Move Zeroes.
 1. Two Sum.
+121. Best Time to Buy and Sell Stock.
