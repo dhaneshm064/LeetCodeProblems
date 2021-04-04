@@ -1,7 +1,7 @@
 # LeetCodeProblems
 
-1. 		Two Sum.
-11. 	Container With Most Water.
+1.    Two Sum.
+11.   Container With Most Water.
 136. 	Single Number.
 121. 	Best Time to Buy and Sell Stock.
 217. 	Contains Duplicate.
